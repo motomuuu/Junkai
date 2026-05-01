@@ -1,0 +1,18 @@
+# build outputs
+*.exe
+*.zip
+*.msi
+*.7z
+
+# folders
+dist/
+build/
+release/
+out/
+
+# logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
