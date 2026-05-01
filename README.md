@@ -34,6 +34,9 @@ https://github.com/motomuuu/Junkai/releases/latest
 2. ZIP ファイルを任意の場所に展開します。
 3. 展開したフォルダ内の実行ファイルから Junkai を起動します。
 
+## スクリーンショット
+
+![Junkaiのメイン画面](images/Junkai_home.png)
 
 ## 不具合報告・要望
 
