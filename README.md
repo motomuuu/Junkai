@@ -33,3 +33,16 @@ https://github.com/motomuuu/Junkai/releases/latest
 1. `Junkai_Portable_vx.x.x.zip` をダウンロードします。
 2. ZIP ファイルを任意の場所に展開します。
 3. 展開したフォルダ内の実行ファイルから Junkai を起動します。
+
+
+## 不具合報告・要望
+
+不具合や要望は GitHub Issues へお願いします。
+
+報告時は、以下を書いてもらえると助かります。
+
+- 使用しているWindowsのバージョン
+- Junkaiのバージョン
+- 何をしようとしたか
+- 何が起きたか
+- エラーメッセージがあればその内容
